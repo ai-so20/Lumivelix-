@@ -1,9 +1,13 @@
 # LUMIVELIX 공식 홈페이지
 
+[공식 홈페이지 미리보기 · PC / 모바일](https://ai-so20.github.io/Lumivelix-/)
+
 루미벨릭스 AI 건강 링 공식 홈페이지의 정적 웹사이트 소스입니다.
 
 ## 구성
 
+- `index.html`: GitHub Pages의 시작 페이지
+- `.nojekyll`: 정적 파일을 그대로 게시하는 설정
 - `dist/index.html`: 페이지와 메뉴·색상 선택·FAQ·안내 모달 동작
 - `dist/assets/`: 제품 이미지와 스타일시트
 - `dist/assets/fonts/`: Pretendard 가변 폰트와 OFL 라이선스
