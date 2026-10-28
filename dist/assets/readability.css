@@ -17,3 +17,6 @@ body{font-size:16px;line-height:1.6}h1,h2,h3{font-family:var(--serif);font-weigh
 /* Keep finish controls immediately above the full product image. */
 .color-picker{margin-bottom:18px}.color-picker .swatches{margin:0 0 18px;gap:18px;flex-wrap:wrap}.color-selection-label{display:flex;align-items:center;justify-content:space-between;gap:16px}.color-selection-label .color-name{margin:0;font-size:18px}.color-window>.color-description{margin-top:16px}.color-window>.color-note{margin-top:10px}.color-info h2{margin-bottom:0}
 @media(max-width:900px){.color-layout{gap:24px}.color-info{order:-1}.color-info h2{margin-bottom:0}.color-picker{margin-bottom:14px}.color-picker .swatches{margin-bottom:14px}.color-window>.color-note{margin-top:10px}}
+@media(min-width:901px) and (max-width:1100px){.nav .brand{font-size:18px}.nav-secondary{display:none}}
+@media(max-width:900px){.nav{gap:12px}.nav .brand{font-size:17px;gap:8px}.nav .brand-mark{width:20px;height:20px}.menu-btn{flex-shrink:0}}
+@media(max-width:360px){.nav{padding:0 16px}.nav .brand{font-size:15px;gap:6px}.nav .brand-mark{width:18px;height:18px}}
